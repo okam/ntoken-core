@@ -3,15 +3,15 @@ nToken Core staging tree 0.12.1
 
 `master:` [![Build Status](https://travis-ci.org/ntoken/ntoken.svg?branch=master)](https://travis-ci.org/ntoken/ntoken) `develop:` [![Build Status](https://travis-ci.org/ntoken/ntoken.svg?branch=develop)](https://travis-ci.org/ntoken/ntoken/branches)
 
-https://www.ntoken.network
+https://www.ntoken.org
 
 
 What is nToken?
 ----------------
 
-nToken (GBX) is an innovative cryptocurrency. A form of digital currency secured by cryptography and issued through a decentralized and advanced mining market. Based on Dash, it's an enhanced and further developed version, featuring the masternode technology with 50% Reward, near-instant and secure payments as well as anonymous transactions. nToken has great potential for rapid growth and expansion. Based on a total Proof of Work and Masternode system, it is accesible to everyone, it ensures a fair and stable return of investment for the Graphics Processing Units (GPUs) miners and the Masternode holders.
+nToken (NTK) is an innovative cryptocurrency. A form of digital currency secured by cryptography and issued through a decentralized and advanced mining market. Based on Dash, it's an enhanced and further developed version, featuring the masternode technology with 50% Reward, near-instant and secure payments as well as anonymous transactions. nToken has great potential for rapid growth and expansion. Based on a total Proof of Work and Masternode system, it is accesible to everyone, it ensures a fair and stable return of investment for the Graphics Processing Units (GPUs) miners and the Masternode holders.
 
-Additional information, wallets, specifications & roadmap: https://bitcointalk.org/index.php?topic=2442185.0
+Additional information, wallets, specifications & roadmap: https://ntoken.org
 
 
 License
@@ -24,7 +24,7 @@ Development Process
 -------------------
 
 The `master` branch is meant to be stable. Development is normally done in separate branches.
-[Tags](https://github.com/ntoken/ntoken/tags) are created to indicate new official,
+[Tags](https://github.com/ntoken/ntoken-core/tags) are created to indicate new official,
 stable release versions of nToken Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
