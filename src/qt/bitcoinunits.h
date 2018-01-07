@@ -58,9 +58,9 @@ public:
      */
     enum Unit
     {
-        GBX,
-        mGBX,
-        uGBX,
+        NTK,
+        mNTK,
+        uNTK,
         duffs
     };
 

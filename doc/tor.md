@@ -1,4 +1,4 @@
-TOR SUPPORT IN GBX CORE
+TOR SUPPORT IN NTK CORE
 =======================
 
 It is possible to run nToken Core as a Tor hidden service, and connect to such services.

@@ -109,7 +109,7 @@ class TestNode(NodeConnCB):
 class AcceptBlockTest(BitcoinTestFramework):
     def add_options(self, parser):
         parser.add_option("--testbinary", dest="testbinary",
-                          default=os.getenv("GBXD", "ntokend"),
+                          default=os.getenv("NTKD", "ntokend"),
                           help="bitcoind binary to test")
 
     def setup_chain(self):

@@ -104,7 +104,7 @@ use old versions of Upstart and do not supply the start-stop-daemon utility.
 Copy ntokend.init to /etc/init.d/ntokend. Test by running `service ntokend start`.
 
 Using this script, you can adjust the path and flags to the ntokend program by
-setting the GBXD and FLAGS environment variables in the file
+setting the NTKD and FLAGS environment variables in the file
 /etc/sysconfig/ntokend. You can also use the DAEMONOPTS environment variable here.
 
 4e) Mac OS X
