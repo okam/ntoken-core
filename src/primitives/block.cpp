@@ -17,7 +17,7 @@ uint256 CBlockHeader::GetHash() const
         unsigned int profile = 0x0;
         neoscrypt((unsigned char *) &nVersion, (unsigned char *) &thash, profile);
         return thash;
-
+//        return HashX11(BEGIN(nVersion), END(nNonce));
 }
 
 std::string CBlock::ToString() const
